@@ -1,11 +1,6 @@
 # Hi there, I'm Nuraaa 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: nuraisahnura2004@gmail.com
+I have a passion for software and technology. I first became interested in this field because I worked in the IT field when I was in high school at PT Supernova Comp with a major in Computer and Network Engineering. Then continued in college to participate in the Student Reseacher - Robotics Division, by learning about using Arduino and running Arduino Idea. I also have knowledge of programming languages such as HTML, PHP, SQL and so on.
 
 ## Education:
 
@@ -14,7 +9,7 @@
    - Learned a study designing a business with a combination of Information Technology
    - Participate in the Student Researcher
  #### 2. [SMK N 2 Cianjur](https://smkn2cilakucianjur.sch.id/) | TKJ | Cianjur `2019-2022`
-   - Chief of Rohkris
+   - belum diedit
 
 ## Personal Experience:
 #### 1. [Robotic Division] | Member Division | Bandung `2022-2023`
