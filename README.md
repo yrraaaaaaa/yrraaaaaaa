@@ -1,6 +1,10 @@
 # Hi there, I'm Nuraaa 👋
 ## About me:
-I have a passion for software and technology. I first became interested in this field because I worked in the IT field when I was in high school at PT Supernova Comp with a major in Computer and Network Engineering. Then continued in college to participate in the Student Reseacher - Robotics Division, by learning about using Arduino and running Arduino Idea. I also have knowledge of programming languages such as HTML, PHP, SQL and so on.
+I have an interest in software and technology. My interest in this field started in high school when I majored in Computer and Network Engineering. This foundation has fueled my curiosity and drive to delve deeper.
+
+In college, I expanded my knowledge by learning Arduino and exploring the potential of this powerful tool. I have also developed proficiency in several programming languages, including HTML, PHP, and SQL. These skills have enabled me to understand the intricacies of software development.
+
+I am enthusiastic about utilizing technology to solve problems and create innovative solutions. I am constantly looking for opportunities to learn more and apply it.
 
 ## Education:
 
