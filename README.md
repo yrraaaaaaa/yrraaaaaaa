@@ -13,7 +13,8 @@ I am enthusiastic about utilizing technology to solve problems and create innova
    - Learned a study designing a business with a combination of Information Technology
    - Participate in the Student Researcher
  #### 2. [SMK N 2 Cianjur](https://smkn2cilakucianjur.sch.id/) | TKJ | Cianjur `2019-2022`
-   - belum diedit
+   - Learn windows installation
+   - Learn computer assembly such as bios setup, keyboard replacement, CPU troubleshooting
 
 ## Personal Experience:
 #### 1. [Robotic Division] | Member Division | Bandung `2022-2023`
