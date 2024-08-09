@@ -31,9 +31,6 @@ I am enthusiastic about utilizing technology to solve problems and create innova
 ---
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/bjvcfh44267#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/bjvcfh44267#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nuraisahh#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nuraisahh#gh-dark-mode-only)
 &nbsp;&nbsp;
