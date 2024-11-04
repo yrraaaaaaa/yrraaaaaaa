@@ -37,7 +37,6 @@ I am enthusiastic about utilizing technology to solve problems and create innova
 **Bidang Pendidikan | Jabar Bergerak Zillenial**
 - Actively contributed to educational outreach programs under Jabar Bergerak Zillenial, focusing on improving access to quality education for underprivileged communities in West Java.
 - Coordinated and implemented various educational initiatives, including workshops and seminars, aimed at enhancing literacy and digital skills among students in rural areas.
-- Collaborated with local schools and communities to create and deliver impactful learning modules, positively influencing over 500+ students across multiple regions.
 - Contributed to the development of a sustainable education program, fostering long-term community engagement and empowering the next generation with essential knowledge and skills.
 
 ---
