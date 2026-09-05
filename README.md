@@ -4,7 +4,7 @@ Hello! I am an active student majoring in Information Systems at Universitas Kom
 
 ## Education:
 
-#### 1. [Universitas Komputer Indonesia](https://www.unikom.ac.id/) | Information System | Bandung `2022-now`
+#### 1. [Universitas Komputer Indonesia](https://www.unikom.ac.id/) | Information System | Bandung `2022-2026`
    - Learned to use programming languages with various languages
    - Learned a study designing a business with a combination of Information Technology
    - Participate in the Student Researcher
